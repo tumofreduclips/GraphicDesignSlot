@@ -1,6 +1,5 @@
 {
-    "slot1":["Positive","Triste","Noire","Mystique"],
-    "slot2":["Horreur","Aventure","Tir","Thriller"],
-    "slot3":["Télécharger"],
-    "files":["files/Room 1.fbx"]
+    "slot1":["Horreur","Science-fiction","Histoire","Drame","Romance","Comédie","Thriller","Aventure","Action"],
+    "slot2":[],
+    "slot3":["Mars","Paris","Atlantide","Antarctique","Los Angeles","Shanghai","Caraïbes"]
 }
