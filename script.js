@@ -2,7 +2,7 @@ document.getElementById("reload").addEventListener("click",app)
 
 let conf = location.href.split("#")
 let lang = (conf[1]) ?  conf[1] : "en";
-let topic = (conf[2]) ?  conf[2] : "Staging";
+let topic = (conf[2]) ?  conf[2] : "Screenplay";
 let dataURL =  `l18n/${topic}/strings_${lang}.json`;
 
 app()
