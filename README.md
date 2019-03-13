@@ -9,7 +9,7 @@
 * [https://tumofreduclips.github.io/SlotMachine/index.html#en#Lighting](https://tumofreduclips.github.io/SlotMachine/index.html#en#Lighting)
 * [https://tumofreduclips.github.io/SlotMachine/index.html#hy#Lighting](https://tumofreduclips.github.io/SlotMachine/index.html#hy#Lighting)
 
-* [https://tumofreduclips.github.io/SlotMachine/index.html#fr#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#fr#Staging)
-* [https://tumofreduclips.github.io/SlotMachine/index.html#en#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#en#Staging)
+* [https://tumofreduclips.github.io/Level3SlotMachine/index.html#fr#Screenplay](https://tumofreduclips.github.io/Level3SlotMachine/index.html#fr#Screenplay)
+* [https://tumofreduclips.github.io/Level3SlotMachine/index.html#en#Screenplay](https://tumofreduclips.github.io/Level3SlotMachine/index.html#en#Screenplay)
 * [https://tumofreduclips.github.io/SlotMachine/index.html#hy#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#hy#Staging)
 
