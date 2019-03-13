@@ -1,5 +1,5 @@
 {
-    "slot1":["Adult Man","Adult Woman","Teenage Boy","Teenage GIrl","Young Boy","Young Girl"],
-    "slot2":["Video Games","Toys","Books","Sports","Movies","Art","Music","Politics"],
-    "slot3":["Horror","Science FIction","History","Drama","Romance","Comedy","Thriller"]
+    "slot1":["Mars","Paris","Los Angeles","Carribean","Antarctica","Atlantis","Shanghai"],
+    "slot2":["18th Century","Stone Age","2301","2019","1999","200 BC"],
+    "slot3":["Horror","Science Fiction","Drama","Romance","Comedy","Thriller","Action","Adventure"]
 }
