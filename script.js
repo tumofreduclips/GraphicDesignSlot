@@ -47,18 +47,7 @@ function app() {
             delay:1800,
             update: function() {
               let el = document.querySelector('#slot3');
-              
-              if(slotsData.files){
-                let text = slot3.next();
-                let link = slotsData.files[slot3.index]
-                let linkHTML  = `<a href='${link}' download>${text}</a>`
-                el.innerHTML = "<span>"+linkHTML+"</span>";
-              }
-              else{
-                let text = slot3.next();
-                el.innerHTML = text;
-              }
-              
+              el.innerHTML = "<span>"+slot3.next()+"</span>";
             }
         });
 
